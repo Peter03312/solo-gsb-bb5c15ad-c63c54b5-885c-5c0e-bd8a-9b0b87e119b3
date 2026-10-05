@@ -1,0 +1,14 @@
+{
+  "exhibit_id": "EX-2026-001",
+  "records": [
+    {
+      "location": "上海博物馆交接区",
+      "from_person": "王五",
+      "to_person": "赵六",
+      "seal_no": "SEAL-0002",
+      "occurred_at": "2026-09-25T10:00:00+08:00",
+      "voucher_digest": "sha256:aa11bb22cc33dd44ee55ff660011223344556677889900aabbccddeeff012345",
+      "seal_change_reason": "原封签 SEAL-0001 封条破损，经借展双方授权代表现场换签（授权函编号 SH-2026-091）"
+    }
+  ]
+}

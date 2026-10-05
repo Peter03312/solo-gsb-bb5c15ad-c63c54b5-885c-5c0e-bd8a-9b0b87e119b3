@@ -1,0 +1,13 @@
+{
+  "exhibit_id": "EX-2026-001",
+  "records": [
+    {
+      "location": "杭州展览中心",
+      "from_person": "钱七",
+      "to_person": "孙八",
+      "seal_no": "SEAL-0002",
+      "occurred_at": "2026-09-28T09:00:00+08:00",
+      "voucher_digest": "sha256:ff00ee11dd22cc33bb44aa559966887755241331ffee00ddccbbaa9988776655"
+    }
+  ]
+}

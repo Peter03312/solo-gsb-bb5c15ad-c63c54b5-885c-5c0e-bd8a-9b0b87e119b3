@@ -1,0 +1,21 @@
+{
+  "exhibit_id": "EX-2026-001",
+  "records": [
+    {
+      "location": "故宫博物院文物库房",
+      "from_person": "张三",
+      "to_person": "李四",
+      "seal_no": "SEAL-0001",
+      "occurred_at": "2026-09-20T09:00:00+08:00",
+      "voucher_digest": "sha256:3a7bd3e2360a5d3f1f2a9c4e8b7d6c5a4f3e2d1c0b9a8f7e6d5c4b3a2918f7e6"
+    },
+    {
+      "location": "上海博物馆交接区",
+      "from_person": "李四",
+      "to_person": "王五",
+      "seal_no": "SEAL-0001",
+      "occurred_at": "2026-09-22T14:30:00+08:00",
+      "voucher_digest": "sha256:1b2c3d4e5f60718293a4b5c6d7e8f90112233445566778899aabbccddeeff001"
+    }
+  ]
+}
